@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Intelligenthenry</h1>
-<h3 align="center">A student learning computer science.I'm passionate about back-end development, web designing, cyber security and anything software engineering</h3>
+<h3 align="center">A student learning computer science.I'm passionate about front-end development, web designing, cyber security and anything software engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intelligenthenry&label=Profile%20views&color=0e75b6&style=flat" alt="intelligenthenry" /> </p>
 
